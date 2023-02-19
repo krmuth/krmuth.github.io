@@ -8,8 +8,8 @@ title: Home
   <img src="{{ site.baseurl }}/assets/avatar.jpg"/>
 </div>
 
-## I get excited about 
-Cold War culture, text analysis and visualisation, stylometry, book history, typography, brutalism, Star Trek The Next Generation
+## I care a lot 
+about Cold War culture, text analysis and visualisation, stylometry, book history, typography, brutalism, Star Trek The Next Generation
 
 *** 
 
