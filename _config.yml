@@ -1,0 +1,54 @@
+title: katie muth # name of the site
+subtitle: dh work + lit
+url: https://krmuth.github.io/ # root address of the site
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
+description: # description of the site (multiple lines allowed)
+  Brutalist Jekyll theme built on Poole (The Jekyll Butler) with inspiration from riggraz 'no-style-please'. Also my personal website. 
+
+paginate: 1
+permalink: pretty
+
+favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
+
+theme: nonesuch # if you are using GitHub Pages, change it to remote_theme: nonesuch
+
+theme_config:
+  appearance: "dark" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for back link in post layout
+  date_format: "%d-%m-%Y" # customize how date is formatted
+  show_description: false # show blog description in home page
+
+sass:
+  sass-dir: _sass
+  style: :compressed
+
+  # Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+  # Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
+
+# Specify the author for blog posts
+author:
+  name: Katie Muth
+  url: https://krmuth.github.io/
+  email: krmuth@gmail.com
+
+# Custom vars
+
+
