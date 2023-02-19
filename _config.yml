@@ -10,7 +10,7 @@ permalink: pretty
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
 
-theme: nonesuch # if you are using GitHub Pages, change it to remote_theme: nonesuch
+remote_theme: nonesuch # if you are using GitHub Pages, change it to remote_theme: nonesuch
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
@@ -27,6 +27,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
   # Optimize Jekyll
 exclude:
