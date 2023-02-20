@@ -1,5 +1,5 @@
 title: katie muth # name of the site
-tagline: literature and work, digital humanities, web dev and design
+tagline: dh + work + lit
 url: https://krmuth.github.io/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
 description: # description of the site (multiple lines allowed)
