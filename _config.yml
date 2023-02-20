@@ -1,9 +1,9 @@
 title: katie muth # name of the site
-subtitle: dh work + lit
+tagline: literature and work, digital humanities, web dev and design
 url: https://krmuth.github.io/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
 description: # description of the site (multiple lines allowed)
-  Brutalist Jekyll theme built on Poole (The Jekyll Butler) with inspiration from riggraz 'no-style-please'. Also my personal website. 
+  Dr Katie Muth, Assistant Professor of Digital Humanities and Modern Literature, Department of English Studies, Durham University
 
 paginate: 1
 permalink: pretty
