@@ -40,4 +40,4 @@ Interactive 'digital deformations' centered on and around Thomas Pynchon's 1973 
 
 ### [staff profile](https://www.durham.ac.uk/staff/katie-muth/)
 ### [github](https://github.com/krmuth)
-### [contact](https://www.dur.ac.uk/contactperson/?lid=19655)
+### [contact]([https://www.dur.ac.uk/contactperson/?lid=19655](https://forms.office.com/Pages/ResponsePage.aspx?id=i9hQcmhLKUW-RNWaLYpvlF7JWUE0WGFCkvNqVVE-KHNUN0xMNkJOOFY3TkkxVzhRSzgwTjVNSE5WNC4u))
