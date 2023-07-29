@@ -17,7 +17,7 @@ Cold War culture, text analysis and visualisation, stylometry, book history, typ
 
 ### [George Orwell’s (Covert) Networks](https://krmuth.github.io/orwell.node/)  
 Proof of concept for **Mapping the cultural/intelligence nexus in Britain and the US, c. 1939–1992**, which aims to map large-scale network connections and archival respositories related to state-sponsored cultural activities in WWII and the Cold War period
-<iframe width="100%" height="400" src="https://krmuth.github.io/orwell.node/visualisations/orwell/"></iframe>
+<iframe width="100%" height="400" src="https://krmuth.github.io/orwell.node/visualisations/orwell2/"></iframe>
 [open project](https://krmuth.github.io/orwell.node/)
 
 
