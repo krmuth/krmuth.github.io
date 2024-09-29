@@ -31,7 +31,7 @@ There's something broken in here... can you find it?
 ### Masters
 Integrated Dissertation in English Literary Studies (Supervisor)  
 Data Science Research Project (Supervisor)  
-Digital Humanities: Practice and Theory (Seminar leader)
+Digital Humanities: Practice and Theory (Seminar leader) 
 Qualitative approaches to Digital Humanities (Guest seminar leader)  
 ### Level 3
 American Fiction (Co-convenor)  
