@@ -20,7 +20,7 @@ Lecture delivered to ENGL3131 American Fiction 2021–2022
 [open deck]({{ site.baseurl }}/assets/ellison/index.html)
 
 ### Text analysis demo application
-There's something broken in here... an easter egg for getting started with code! 
+There's something broken in here... can you find it?  
 <iframe width="100%" height="400" src="https://katie-muth.shinyapps.io/dh-demo/?showcase=0"></iframe>   
 [open demo](https://katie-muth.shinyapps.io/dh-demo/?showcase=0)  
 
@@ -29,19 +29,20 @@ There's something broken in here... an easter egg for getting started with code!
 ## Courses taught @ Durham
 
 ### Masters
-MA Dissertation in English (Supervisor)  
+Integrated Dissertation in English Literary Studies (Supervisor)  
 Data Science Research Project (Supervisor)  
+Digital Humanities: Practice and Theory (Seminar leader)
 Qualitative approaches to Digital Humanities (Guest seminar leader)  
 ### Level 3
 American Fiction (Co-convenor)  
 Digital Deformations (Convenor)   
 US Cold War Literature and Culture (Convenor)  
 40-credit Dissertation in English (Supervisor)  
-Post-war Fiction and Poetry (Tutor)  
+Post-war Fiction and Poetry (Lecturer)  
 ### Level 2
 Literature and the Internet (Co-convenor)  
 Toni Morrison: Texts and Contexts (Convenor)  
 Digital Skills for Visual Culture Research (Seminar leader)  
 Programming for Students of Arts and Humanities (Guest lecturer)  
-Theory and Practice of Literary Criticism (Seminar leader)  
+Theory and Practice of Literary Criticism (Lecturer)  
 American Poetry (Lecturer)  
