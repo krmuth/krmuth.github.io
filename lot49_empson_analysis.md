@@ -165,3 +165,5 @@ The entire penultimate paragraph is structured as a series of binary oppositions
 ## Conclusion
 
 What makes this passage extraordinary, by Empson's own standards, is that it does not deploy ambiguity as ornament but as argument. The uncertainties are not incidental — they are the subject. Pynchon is writing about a character who cannot determine whether the world is full of hidden meaning or entirely empty of it, and the language at every level enacts that indeterminacy. Type One ambiguities (the compressed, multi-valent words like "assumed," "residue," "Keep it bouncing") carry the texture of a world in which everything might mean several things at once. Type Seven ambiguities (true paranoia, beaten death, the final either/or) carry the structural argument that some of these meanings are not compatible, and that we may be forced to choose without any means of choosing. The passage ends where it ends — on a suspended clause, before a revelation — because to arrive at the resolution of any of these ambiguities would be to destroy the condition the novel is describing.
+
+*fin.*
