@@ -1,0 +1,159 @@
+# Ambiguity in the Final Pages of *The Crying of Lot 49*: An Empsonian Analysis
+
+William Empson's *Seven Types of Ambiguity* (1930) defines ambiguity as "any verbal nuance, however slight, which gives room for alternative reactions to the same piece of language." His seven types move from the relatively simple (a word effective in several ways at once) to the most complex (a full contradiction that reveals a division in the author's or character's mind). The closing passage of Pynchon's novel — from Arnold's "For me" to the suspended final clause — is one of the most densely ambiguous pieces of prose in postwar American fiction, and it maps with remarkable precision onto all seven of Empson's categories.
+
+---
+
+## Type One: A Detail Effective in Several Ways Simultaneously
+
+Empson's first type is the most pervasive: a word, image or phrase whose several meanings are all simultaneously relevant and mutually reinforcing, without any one of them cancelling the others.
+
+**"assumed back into the American continuity of crust and mantle"**
+
+Three separate meanings of "assumed" are active here at once. The primary meaning is passive absorption: San Francisco is simply taken back into the undifferentiated mass of America. But "assumed" also carries the theological resonance of the Assumption — the bodily taking-up of the Virgin Mary into heaven. San Francisco is, grotesquely, assumed not upward but *back*, not into glory but into geological anonymity. And there is a third sense: to assume is to put on, to wear. San Francisco had been wearing the costume of uniqueness; now the costume is removed. All three meanings are available simultaneously, and all three enrich the sentence's melancholy.
+
+"Crust and mantle," in the same phrase, is geological (the layers of the earth) but also sartorial and heraldic: a mantle is a cloak, an emblem of inheritance and dignity. The passage is about legacy and inheritance; Pierce Inverarity's legacy has turned out to be America itself, and America is described here in terms that echo both the physical earth and the formal trappings of an estate. The geological and the legal interpenetrate without friction.
+
+**"residue of uniqueness"**
+
+"Residue" is a legal term — what remains of an estate after specific bequests have been discharged, the part that passes to the residual legatee. In the context of a novel obsessed with wills and probate, the word is never merely general. San Francisco's residue of uniqueness is what is left over after everything else has been stripped away — and now even that is gone. The word also carries its chemical sense: the solid matter remaining after evaporation or combustion. Both meanings apply, and their simultaneous presence makes the loss more total.
+
+**"Keep it bouncing"**
+
+Pierce's reported instruction to Oedipa works at at least three levels at once. In its immediate context it is investment advice — keep capital in motion, never let it settle. But the novel has been concerned throughout with Maxwell's Demon and entropy: in thermodynamic terms, to "keep it bouncing" is to maintain the motion of molecules, to resist the natural tendency toward equilibrium and heat-death. And at a third level, Pierce is giving Oedipa instructions for how to conduct the investigation that will follow his death — keep the mystery bouncing, keep it from resolving. The advice is simultaneously financial, physical, and existential, and all three registers remain active throughout the passage as Oedipa continues to "bounce" between possible interpretations.
+
+**"Loren Passerine"**
+
+The auctioneer's name is a piece of condensed ambiguity. *Passerine* is the adjective for the order of perching birds — sparrows, finches, warblers. It is also, notably, the order of singing birds. The finest auctioneer in the West is a bird, and specifically a songbird — a crier, in both the professional and the ornithological sense. His name encodes the action he is about to perform ("crying" the sale) before he performs it, so that the name and the function are simultaneously present every time he is named. The word *loren*, meanwhile, is an archaic past participle meaning "lost" (as in *forlorn*): the crier's name means "the lost bird," which is also, in some sense, Oedipa.
+
+**"her target, her enemy, perhaps her proof"**
+
+The three terms accumulate in a way that is effective in several ways simultaneously. A "target" is something to be aimed at; an "enemy" is something to be defeated; "proof" is something that validates a claim. The anonymous bidder is all three at once: Oedipa is hunting him, fears him, and needs him to exist to confirm that the Tristero is real. But the word "proof" undoes the adversarial dynamic of "target" and "enemy" — if he is her proof, she needs him to succeed, not fail. The syntax holds all three relationships in suspension without resolving them.
+
+---
+
+## Type Two: Two or More Alternative Meanings Are Fully Resolved Into One
+
+Empson's second type describes an instance where two distinct meanings of a word or phrase do not merely coexist but fuse — where the metaphorical and the literal, or the abstract and the concrete, become perfectly coincident.
+
+**"the legacy was America"**
+
+"Legacy" carries its precise legal meaning throughout the novel — Pierce's bequest, his estate, the thing Oedipa has been appointed to administer. But the sentence "never suspecting that the legacy was America" collapses the legal and the cultural meanings into perfect coincidence. America is what Pierce has left behind in the legal sense (his properties, his holdings, his encrypted will), but America is also the *thing that gets left behind* in the cultural and historical sense — the inheritance of a nation, the accumulated residue of settlement, dispossession, and capital. The two meanings are not alternatives; they are the same thing, and the sentence's power comes from the moment of their fusion.
+
+**"the culdesac hed tried to find a way out of"**
+
+Pierce Inverarity is a real-estate developer. A cul-de-sac is literally a dead-end street, and it is exactly the kind of geographical feature he would have built, named, and sold. The metaphorical meaning — the dead end of a life, an existence without exit — is entirely absorbed by the literal meaning. Pierce tried to find a way out of the dead end that was his own life, and the irony is that he may have spent his career building dead ends for others. The metaphor and the literal case are not just parallel; they are identical.
+
+**"testament"**
+
+Pierce "wrote the testament" to harass a onetime mistress, or to encode the Tristero, or to survive death. "Testament" means a legal will, but it also means a testimony — a witness, a statement of truth. In the context of a novel where the Tristero's existence is uncertain, Pierce's will is either a legal document or a testimony about a real hidden history. The word holds both meanings not as alternatives but as one fused act: to write a will and to bear witness are, for Pierce, the same gesture.
+
+---
+
+## Type Three: Two Apparently Unconnected Meanings Given Simultaneously (the Pun or Zeugma)
+
+Type three occurs when a single word or construction generates two meanings that belong to entirely different semantic fields, with no evident connection between them except the accident of the same word.
+
+**"secular miracle of communication"**
+
+A miracle is by definition non-secular — it is a supernatural intervention. A secular miracle is, strictly speaking, a contradiction. But Pynchon fuses the two: the telephone network, the copper wiring, the system of relays that allows people at extreme social and geographical margins to speak to one another, is both a perfectly mundane piece of infrastructure and genuinely miraculous. The squatters who live in the wires are neither religious nor technological in any conscious sense; they simply inhabit the miracle. The oxymoron does not cancel itself but generates its meaning from the collision.
+
+**"dumb voltages"**
+
+"Dumb" means silent — voltages are inaudible, unheard. But "dumb" also means inarticulate, unable to speak, dispossessed of language. The voltages flickering through the wires carry the "thousands of unheard messages" that belong to the disinherited, the Tristero's network — messages that are dumb in both senses, silent to those who cannot access the system, and inarticulate because they belong to those who have been denied a legitimate voice. The pun is not decorative; it captures the double condition of the dispossessed.
+
+**"accommodation... with the Angel of Death"**
+
+"Accommodation" means a compromise, an arrangement reached through negotiation. But accommodation also means a place to stay — lodgings. Vesperhaven House is a retirement home; an *accommodation* house. The residents have made their accommodation with the Angel of Death in both senses: they have reached a practical arrangement with dying (the daily preparations), and they are accommodated in a house whose very name (*vesper* = evening, the last canonical hour) signals that the Angel is already in residence. The two meanings of the word perform exactly the situation being described.
+
+**"crying of lot 49"**
+
+The novel's title, withheld until the final clause, compresses several unconnected meanings. "To cry" is the professional auctioneer's term for calling out a sale. Cohen has already glossed this for Oedipa: "We say an auctioneer cries a sale." But crying is also weeping — and the novel has been, in part, about Oedipa's approaching grief for Pierce, for the dispossessed, for the possibility that everything means nothing. "Lot," too, is both the auction item (lot 49 in the sale) and one's lot — one's fate, one's portion in life. To await the crying of lot 49 is to await the auctioneer's call, but it is also to await the lament over one's fate. The professional term opens onto the existential condition without warning.
+
+---
+
+## Type Four: Alternative Meanings That Combine to Clarify a Complicated State of Mind
+
+Empson's fourth type describes ambiguities that do not so much confuse the reader as precisely convey a psychological complexity — where the multiplicity of meaning *is* the meaning, reflecting an unsettled, contradictory, or unresolved state in the character or speaker.
+
+**"For me."**
+
+Arnold's final words are the most compressed ambiguity in the passage. Oedipa has told him he is "released," "free." He says: "It's too late." For whom? For her, she assumes. But his last words are "For me." The phrase holds at least three interpretations simultaneously, and Arnold hangs up before Oedipa — or the reader — can determine which applies. It might mean: *too late for me [to be free]* — he is still trapped, whatever freedom she has offered him. It might mean: *too late for me [I am already dying]* — there is something terminal in his situation. Or it might mean something more oblique: *for my sake [it is already too late]* — he has already sacrificed himself. What is certain is that the phrase is self-referring, directed inward toward Arnold rather than outward toward Oedipa, and that its ambiguity perfectly mirrors what Empson calls "an unsettled state of mind" — not the author's, but the character's, and by extension Oedipa's as she is left holding a dead line.
+
+**"Pierce Inverarity was really dead."**
+
+The word "really" is doing enormous work. It means "truly" — Oedipa is trying to tell herself something she cannot quite believe. But its very insistence reveals the doubt it is meant to suppress. If one is certain of something, one does not generally say "really." The word belongs to the vocabulary of reassurance and disbelief simultaneously, and its presence here — at the start of a paragraph, in a sentence that appears to be a simple statement — marks it as Type Four ambiguity: the alternative meanings (certainty / doubt) combine to reveal the precise texture of Oedipa's psychological state.
+
+**"That Inverarity had only died, nothing else."**
+
+"Only" is the crucial word. In one reading it means "merely" — he just died, and there is no elaborate Tristero conspiracy behind it. This would be the devastating, nihilistic reading: the whole investigation has been a paranoid fantasy. But "only died" can also be read as a kind of consolation: at least he died, he was real, something happened, even if it was only death. The two readings — deflation and consolation — are both present, and their simultaneous availability captures the divided state of mind Oedipa is in as she attempts to hold the possibilities open.
+
+**"some headlong expansion of himself, some visit, some lucid instruction"**
+
+The three nouns — expansion, visit, instruction — are deliberately vague. Oedipa is speculating about Pierce's inner life in his final period, and the vagueness of her language reflects the genuine uncertainty of her knowledge. But each noun gestures toward a different explanation: "expansion" suggests megalomania or breakdown; "visit" suggests a visitation (divine, supernatural, or simply a business encounter); "lucid instruction" suggests a moment of clarity in which he deliberately designed the enigma. The alternatives are not resolved, because Oedipa cannot resolve them. The ambiguity is the state of mind.
+
+---
+
+## Type Five: A Fortunate Confusion — Where the Author Discovers a Meaning in the Process of Writing
+
+Empson describes his fifth type as arising when a writer "does not know what he thinks about something and is trying to find out." It occurs when a simile goes "wrong" in a productive way, or when a metaphor runs ahead of the argument and discovers something unexpected.
+
+**"hovering like a puppetmaster"**
+
+The simile is subtly self-contradictory and generates its meaning from that contradiction. To hover is to be suspended, indeterminate, lacking full control — it is what birds do, what helicopters do when they cannot land. A puppetmaster, on the other hand, is defined by total control over his figures. Passerine hovers *like* a puppetmaster, but hovering and puppetmastery are incompatible postures. The confusion is productive: Passerine is simultaneously in command (the auction is his, the bidders are his figures) and somehow suspended above the scene, not quite of it. The simile discovers the auctioneer's ambivalent authority — he controls everything and yet is in some sense floating above, untethered.
+
+**"the zeroes and ones twinned above, hanging like balanced mobiles right and left, ahead, thick, maybe endless"**
+
+This passage begins as a simile for binary code — the digital computer — but then escapes its computational frame. The zeroes and ones begin as data but end as a cosmological image: they are hanging above, like mobiles, in every direction, "maybe endless." The metaphor runs away from its vehicle. By the time we reach "maybe endless," we are no longer inside a computer simulation but in some vast suspended universe of pure alternatives. Pynchon seems to discover, in the process of elaborating the simile, that what he means is not really about computers at all: the either/or condition of Oedipa's world is not a digital metaphor but a description of the structure of existence itself. The confusion is fortunate because it is precisely more true than the tidy computational metaphor he started with.
+
+**The bathetic turn from angel to cleared throat**
+
+"Passerine spread his arms in a gesture that seemed to belong to the priesthood of some remote culture; perhaps to a descending angel. The auctioneer cleared his throat."
+
+The first sentence builds toward the sublime — a descending angel, a priestly gesture, a "remote culture" suggesting both antiquity and sacredness. Then the second sentence deflates it entirely: clearing one's throat is the most mundane of preparatory acts. But this is not merely deflation for comic effect. The bathos discovers a meaning: the auction is both a sacred and a trivial rite simultaneously, a religious ceremony whose priesthood happen to be selling stamps, and whose angel is merely preparing to shout numbers. The confusion between the sublime and the humdrum is exactly the novel's condition — it cannot decide whether everything means something or nothing, and this syntactic moment enacts that indecision.
+
+---
+
+## Type Six: What Is Said Is Contradictory or Irrelevant, Forcing the Reader to Invent Meanings
+
+In Empson's sixth type, the statement as written is contradictory, tautological, or somehow inadequate, and the reader must do interpretive work to make sense of it.
+
+**"the courage you find you have when there is nothing more to lose"**
+
+This appears to be a compliment — a recognition of genuine bravery. But the qualification undermines the compliment entirely. Courage predicated on having nothing to lose is not courage in any ordinary sense; it is the behaviour of someone past caring, for whom the ordinary stakes have been removed. The sentence says "courage" but describes desperation. The reader must invent a meaning that holds both possibilities: that what looks like courage may be a form of surrender, and that surrender may be indistinguishable from courage at a certain extremity.
+
+**"excluded middles; they were bad shit, to be avoided"**
+
+The law of excluded middle — the logical principle that for any proposition, either that proposition is true or its negation is true — is here rendered in an aggressively colloquial register ("bad shit"). The collision between the philosophical and the vulgar is more than stylistic. Oedipa has "heard all about" excluded middles in the abstract; she knows the logic. But the sudden shift into slang suggests that her relationship to this principle is not detached and philosophical — it is visceral, embodied, felt. The contradiction between the register of the idea and the register of the response forces the reader to ask what it would actually mean, existentially rather than logically, to *live* amid excluded middles. The slang is not reductive; it is, paradoxically, more serious than the technical term.
+
+**"That it was all true. That Inverarity had only died, nothing else."**
+
+These two sentences are placed in apposition as though they are equivalent — two versions of "the other chance." But they are not equivalent; they are contradictory. "It was all true" and "he had only died, nothing else" cannot both be the same alternative. If the Tristero is real, then his death is freighted with meaning; if he "only died," the Tristero may still be real but is not his doing. Or: "all true" might refer to the reality of Tristero, and "only died" might refer to the absence of any deliberate posthumous conspiracy. The reader must construct a meaning that accommodates both statements, and the difficulty of doing so is exactly the point.
+
+---
+
+## Type Seven: Full Contradiction — Two Meanings That Are Irreconcilable, Revealing a Fundamental Division
+
+Empson's seventh type is the most extreme: a statement where two readings are "the two opposite meanings defined by the context," and no synthesis is available. The ambiguity does not enrich the meaning but splits it.
+
+**"true paranoia"**
+
+This is the novel's central Type Seven ambiguity. Paranoia is, by clinical definition, a false belief — a delusional system that imputes malevolent meaning to random events. A "true paranoia" is therefore a contradiction: paranoia cannot be true. And yet Pynchon has constructed a novel in which Oedipa's paranoid readings of events may correspond to an actually existing conspiracy. If the Tristero is real, then her paranoia is not paranoia at all but accurate pattern-recognition. If it is not real, then her paranoia is true to its name. The phrase "orbiting ecstasy of a true paranoia" does not resolve this contradiction; it holds it open. The two meanings — paranoia as pathology, paranoia as vision — are genuinely irreconcilable, and the novel's refusal to choose between them is its structural equivalent of this Type Seven ambiguity.
+
+**"Tremaine the Swastika Salesman's reprieve from holocaust was either an injustice, or the absence of a wind"**
+
+This is perhaps the most violent ambiguity in the passage. "Holocaust" is, since 1945, irreversibly marked by its reference to the Nazi genocide — the deliberate extermination of millions. But its older meaning is a burnt offering, a fire, a conflagration in the ordinary sense. Tremaine is a salesman of swastikas — the Nazi emblem — and his "reprieve from holocaust" might mean: he was saved from being swept up in the mass death associated with the symbol he peddles. But the "absence of a wind" suggests something entirely mundane: a bonfire that failed to ignite properly. The two readings — the catastrophic and the trivial — are not compatible, and that incompatibility is the point. Pynchon places the Holocaust alongside a failed bonfire in the same grammatical structure of equivalence, forcing the reader to hold both together. The irreconcilability is not a failure of the prose; it is a statement about America's capacity to hold the catastrophic and the banal in the same neutral container of either/or.
+
+**"Had something slipped through and Inveracity by that much beaten death?"**
+
+The syntax here allows two opposite readings of "beaten death." If something slipped through the Angel's grasp, then Inverarity *defeated* death — he survived it in some form, through the Tristero, through his conspiracy, through his encrypted will. But "beaten death" can equally mean "overcome *by* death" — struck down by it, defeated in the ordinary sense of dying. The phrasing oscillates between Inverarity as victor and Inverarity as victim, and neither reading is grammatically foreclosed. The question mark does not resolve the ambiguity but intensifies it — Oedipa is asking which of the two irreconcilable meanings is true.
+
+**The final either/or structure as sustained Type Seven**
+
+The entire penultimate paragraph is structured as a series of binary oppositions, each one irresolvable: transcendent meaning or only the earth; numinous beauty or only a power spectrum; injustice or the absence of a wind; reason or cigarette smokers; accommodation with death or only death. The paragraph culminates in the novel's explicit statement of its governing Type Seven: "Either Oedipa in the orbiting ecstasy of a true paranoia, or a real Tristero." These are the two readings of everything that has happened, and they are genuinely mutually exclusive. If Oedipa is paranoid, there is no Tristero. If there is a Tristero, she is not paranoid. No synthesis is offered. The novel ends — on the threshold of lot 49's crying — before the auction reveals which alternative is true, leaving the Type Seven ambiguity structurally permanent, built into the novel's form rather than merely its language.
+
+---
+
+## Conclusion
+
+What makes this passage extraordinary, by Empson's own standards, is that it does not deploy ambiguity as ornament but as argument. The uncertainties are not incidental — they are the subject. Pynchon is writing about a character who cannot determine whether the world is full of hidden meaning or entirely empty of it, and the language at every level enacts that indeterminacy. Type One ambiguities (the compressed, multi-valent words like "assumed," "residue," "Keep it bouncing") carry the texture of a world in which everything might mean several things at once. Type Seven ambiguities (true paranoia, beaten death, the final either/or) carry the structural argument that some of these meanings are not compatible, and that we may be forced to choose without any means of choosing. The passage ends where it ends — on a suspended clause, before a revelation — because to arrive at the resolution of any of these ambiguities would be to destroy the condition the novel is describing.
