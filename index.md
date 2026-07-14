@@ -9,7 +9,7 @@ title: Home
 </div>
 
 ## I get excited about
-Cold War culture, text analysis and visualisation, stylometry, book history, typography, brutalism, Star Trek The Next Generation
+Cold War culture, network and graph analysis, computational literary studies, stylometry, typography, brutalism, Star Trek 
 
 *** 
 
